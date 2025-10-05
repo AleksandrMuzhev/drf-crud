@@ -182,7 +182,6 @@ drf-crud/
 │   ├── settings.py          # Настройки Django
 │   └── urls.py              # Корневые URL-маршруты
 ├── requirements.txt          # Зависимости Python
-├── .env.example             # Пример файла окружения
 └── .gitignore               # Игнорируемые файлы Git
 ```
 
